@@ -22,7 +22,7 @@ menu:
       parent: menu.home
       url: /
       weight: 2
-    - name: '智能语音'
+    - name: '工具调取'
       parent: menu.home
       url: /
       weight: 3
@@ -30,23 +30,23 @@ menu:
       parent: menu.home
       url: /
       weight: 4
-    - name: 'Option 5: Portfolio'
+    - name: '联系医院'
       parent: menu.home
       url: /
       weight: 5
-    - identifier: menu.features
-      name: Features
-      url: /img/template-easy-customize.png
+    - identifier: menu.usercommunity
+      name: 用户社区
+      url: /Users/luyiting/Desktop/IMG_3852.jpeg
       weight: 3
     - identifier: section.shortcodes
       name: Shortcodes
-      parent: menu.features
+      parent: menu.usercommunity
       post: 1
       url: ''
       weight: 1
     - identifier: section.headervariations
       name: Header variations
-      parent: menu.features
+      parent: menu.usercommunity
       post: 2
       url: ''
       weight: 2
