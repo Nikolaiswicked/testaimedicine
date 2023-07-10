@@ -8,9 +8,9 @@ tags: ["R Markdown", "plot", "regression"]
 
 
 
-# R Markdown
+# 致用户
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+非常抱歉，建立了这个网站以来都没有和用户们好好谈谈。 <https://www.shutcm.edu.cn>.
 
 You can embed an R code chunk like this:
 
@@ -51,6 +51,6 @@ pie(
 ```
 
 <div class="figure">
-<img src="{{< blogdown/postref >}}index.en_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
-<p class="caption"><span id="fig:pie"></span>Figure 1: A fancy pie chart.</p>
+<img src="{{< blogdown/postref >}}index.en_files/figure-html/pie-1.png" alt="一张漂亮的饼图." width="672" />
+<p class="caption"><span id="fig:pie"></span>Figure 1: 一张漂亮的饼图.</p>
 </div>

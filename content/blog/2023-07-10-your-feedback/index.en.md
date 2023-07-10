@@ -1,5 +1,6 @@
 ---
 title: Your feedback
+banner: img/banners/banner-6.jpg
 author: Package Build
 date: '2023-07-10'
 slug: your-feedback
