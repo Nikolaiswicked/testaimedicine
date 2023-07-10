@@ -11,22 +11,22 @@ pluralizelisttitles: no
 menu:
   main:
     - identifier: menu.home
-      name: Home
+      name: 首页
       url: /
       weight: 1
-    - name: 'Option 1: Default Page'
+    - name: '最新资讯'
       parent: menu.home
       url: /
       weight: 1
-    - name: 'Option 2: Application'
+    - name: '文献查询'
       parent: menu.home
       url: /
       weight: 2
-    - name: 'Option 3: Startup'
+    - name: '智能语音'
       parent: menu.home
       url: /
       weight: 3
-    - name: 'Option 4: Agency'
+    - name: '问卷调查'
       parent: menu.home
       url: /
       weight: 4
